@@ -1,7 +1,7 @@
 # praktikum5
 # Penjelasan
 1. ``daftar = {}`` Berikut adalah dictionary yang di definisikan terlebih dahulu.
-2. ``while True:`` Selanjutnya adalah perulangan yang digunakan.
+2. ``while True:`` Berikut adalah perulangan yang digunakan.
 3. **Keluar**
 
 * ``if perintah.lower() == 'k':`` 
