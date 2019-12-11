@@ -42,11 +42,11 @@
 
 * Perintah dijalankan jika input yang di masukan adalah ``u``, di dalam kondisi ini terdapat input dan kondisi, dimana jika input ``nama`` ada di dalam variabel ``daftar.keys`` maka akan muncul beberapa pilihan untuk mengubah semua data atau data tertentu saja.
   
-  * Selanjutnya adalah kode yang digunakan untuk menggubah input yang sudah dimasukan :
+* Selanjutnya adalah kode yang digunakan untuk menggubah input yang sudah dimasukan :
   
   <img width="349" alt="inputubah" src="https://user-images.githubusercontent.com/56913656/70633920-e8206a80-1c63-11ea-97d3-2b117b498fef.png">
   
-  * Berikut kondisi yang digunakan untuk memasukan pilihan :
+* Berikut kondisi yang digunakan untuk memasukan pilihan :
   
   <img width="414" alt="inputubah2" src="https://user-images.githubusercontent.com/56913656/70634463-d9868300-1c64-11ea-8743-408a6ec4ff8b.png">
   
