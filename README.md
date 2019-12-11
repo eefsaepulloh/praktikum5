@@ -7,6 +7,7 @@
 **Output**
 
  <img width="482" alt="Outputbreak" src="https://user-images.githubusercontent.com/56913656/70628403-afc85e80-1c5a-11ea-8134-122802fc4cc3.png">
+ 
 * 4. Jika ``k`` di input dan ``lower()`` digunakan untuk mengkonversi input yang dimasukan ke bentuk lower case dan Input k digunakan berdasarkan perintah yang sudah di masukan dalam keterangan pada fungsi input di bawah ini :
 
  <img width="389" alt="input" src="https://user-images.githubusercontent.com/56913656/70629358-6da01c80-1c5c-11ea-9196-6e2e4c70f0db.png">
