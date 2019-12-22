@@ -1,4 +1,15 @@
 # praktikum5
+Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan : 
+* Program dibuat dengan menggunakan **Dictionary**
+* Tampilkan menu pilihan: (Tambah Data, Ubah Data, Hapus Data, Tampilkan Data, Cari Data)
+* Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
+* Buat flowchart dan penjelasan programnya pada ``README.md``.
+* Commit dan push repository ke github.
+
+# Flowchart
+
+  ![WhatsApp Image 2019-12-22 at 12 37 30](https://user-images.githubusercontent.com/56913656/71320600-0007b200-24e0-11ea-9dea-6c4e1054814b.jpeg)
+
 # Penjelasan
 1. ``daftar = {}`` Berikut adalah dictionary yang di definisikan terlebih dahulu.
 2. ``while True:`` Berikut adalah perulangan yang digunakan.
@@ -83,6 +94,9 @@
 
   <img width="414" alt="outputhapus" src="https://user-images.githubusercontent.com/56913656/70635860-33884800-1c67-11ea-9e12-82a16db5c166.png">
 
+                                               ~ Eef Saepulloh ~
+                                                 
+                                               
 
   
   
